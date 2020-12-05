@@ -24,7 +24,7 @@
 
 ![The data type of the array-integer](https://github.com/chengkangck/Python_numpy/tree/main/images/The data type of the array-integer.png)
 
-![integer](http://github.com/chengkangck/Python_numpy/raw/master/images/integer.png)
+![integer](https://github.com/chengkangck/Python_numpy/tree/main/images/integer.png)
 
 
 
