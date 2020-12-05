@@ -23,7 +23,10 @@
 (1) The data type of the array-integer
 
 
-![image](https://github.com/chengkangck/Python_numpy/tree/main/images/integer.png)
+
+![image](http://github.com/chengkangck/Python_numpy/raw/master/images/integer.png)
+
+
 
 
 
