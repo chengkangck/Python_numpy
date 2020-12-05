@@ -26,7 +26,4 @@
 
 ![image](http://github.com/chengkangck/Python_numpy/raw/master/images/integer.png)
 
-
-
-
-
+![image](https://github.com/chengkangck/Python_numpy/blob/main/images/integer.png)
