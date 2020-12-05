@@ -28,8 +28,10 @@
 ![image](https://github.com/chengkangck/Python_numpy/blob/main/images/floating%20point.png)
 
 (3) The data type of the array-complex number
-![image](https://github.com/chengkangck/Python_numpy/blob/main/images/complex%20number.png)
+![image](https://github.com/chengkangck/Python_numpy/blob/main/images/array%20complex.png)
+
 (4) The data type of the array-string
-![image](https://github.com/chengkangck/Python_numpy/blob/main/images/array%string.png)
+![image](https://github.com/chengkangck/Python_numpy/blob/main/images/array%20string.png)
+
 (5) The data type of the array-Boolean
 ![image](https://github.com/chengkangck/Python_numpy/blob/main/images/array%20Boolean.png)
