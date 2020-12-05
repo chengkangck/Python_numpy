@@ -35,3 +35,7 @@
 
 (5) The data type of the array-Boolean
 ![image](https://github.com/chengkangck/Python_numpy/blob/main/images/array%20Boolean.png)
+
+## 3. Function to create one-dimensional array
+
+   Use numpy.array(object) to create a one-dimensional array, where the object type can be a list or an ancestor
