@@ -25,4 +25,4 @@
 ![image](https://github.com/chengkangck/Python_numpy/blob/main/images/integer.png)
 
 (2) The data type of the array-floating point
-![image](https://github.com/chengkangck/Python_numpy/blob/main/images/floating%point.png)
+![image](https://github.com/chengkangck/Python_numpy/blob/main/images/floating%20point.png)
