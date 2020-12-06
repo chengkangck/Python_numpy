@@ -39,3 +39,5 @@
 ## 3. Function to create one-dimensional array
 
    Use numpy.array(object) to create a one-dimensional array, where the object type can be a list or an ancestor
+   1) numpy.arange (Start, Stopp, Schritt, dtype)
+Syntax: Start: Startwert, Standard ist 0, einschließlich Startwert; Stopp: Endwert, ohne Endwert; Schritt: Schrittgröße, Standardwert ist 1, der Wert kann eine negative Zahl sein; Typ: Array-Elementtyp
