@@ -39,5 +39,22 @@
 ## 3. Function to create one-dimensional array
 
    Use numpy.array(object) to create a one-dimensional array, where the object type can be a list or an ancestor
-   1) numpy.arange (Start, Stopp, Schritt, dtype)
-Syntax: Start: Startwert, Standard ist 0, einschließlich Startwert; Stopp: Endwert, ohne Endwert; Schritt: Schrittgröße, Standardwert ist 1, der Wert kann eine negative Zahl sein; Typ: Array-Elementtyp
+   1) numpy.arange(start,stop,step,dtype)
+Syntax: start: start value, default is 0, including start value; stop: end value, not including end value; step: step size, default value is 1, the value can be a negative number; dtype: array element type
+(2) numpy.linspace(start,stop,num,endpoint,retstep,dtype)
+Syntax: num: set the number of generated elements; endpoint: set whether to include the end value, False is not to return, the default value is True; retstep: set whether to return the step size (ie tolerance), False is not to return, the default is False, When the value is True, the return value is a two-tuple, including an array and step size
+(3) numpy.logspace(start,stop,num,endpoint,base,dtype) Syntax: start: start value, value is base**start; start: start value, value is base**start; stop: end value, The value is base**stop; base: base
+
+## Third, the function to create a two-dimensional array
+
+   1. numpy.array(object) fill in the nested list or tuple nested tuple in the list in the object
+
+(1) ones() generates an array of all 1s according to the specified shape and data type
+numpy.ones(shape,dtype=None)
+(2) Generate an array of all 0s
+numpy.zeros()   
+(3) The full() function generates an array according to the specified shape and data type, and fills it with the specified data
+numpy.full(shape,fill_value,dtype=None). fill_value: specify the filled data
+(4) The identity() function creates an identity matrix (that is, a matrix whose diagonal elements are 1 and other elements are 0)
+
+numpy.identity(n,dtype=None). n: array shape
